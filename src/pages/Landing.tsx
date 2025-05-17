@@ -26,7 +26,7 @@ const Landing = () => {
           
           <NavLink to="/dashboard" className="inline-block animate-delay-400 animate-float-up">
             <Button className="neon-button group">
-              <span>Start Now</span>
+              <span>START NOW</span>
               <Rocket className="ml-2 group-hover:translate-x-1 transition-transform" />
             </Button>
           </NavLink>
