@@ -1,3 +1,6 @@
+
+![Sollynx](https://github.com/user-attachments/assets/ba0e246c-b97f-4b34-8c35-9cdc041a3792)
+
 # 🚀 Sollynx — The Future of SME Finance, Powered by Stablecoins
 
 **Sollynx** is an all-in-one finance hub for small and medium enterprises (SMEs), built on **Solana** and powered by **USDC**. It helps businesses simplify invoicing, automate payroll, and manage USDC-native finances—while offering the ability to earn yield and interact with fiat currency.
@@ -95,10 +98,12 @@ Modern SMEs face real financial bottlenecks:
 
 ## 📸 UI Preview
 
-> *(Embed your screenshots here with captions)*  
-Example:  
-![Dashboard](./screenshots/dashboard.png)  
-*A modern dashboard with real-time analytics and USDC portfolio summary.*
+![image](https://github.com/user-attachments/assets/9176c5eb-c127-47e1-a90d-5e2f2ad1c6f0)
+![image](https://github.com/user-attachments/assets/eac78cf4-cb05-4d7b-9046-ef5e29cc4dd3)
+![image](https://github.com/user-attachments/assets/509f3229-a10b-4424-add0-f00de87c5578)
+![image](https://github.com/user-attachments/assets/9b8ccbfe-fb15-458b-a47b-5a44b54c5d40)
+![image](https://github.com/user-attachments/assets/65d7ba74-e8d0-4616-ac19-fdd40010c7ba)
+
 
 ---
 
