@@ -1,73 +1,126 @@
-# Welcome to your Lovable project
+# 🚀 Sollynx — The Future of SME Finance, Powered by Stablecoins
 
-## Project info
+**Sollynx** is an all-in-one finance hub for small and medium enterprises (SMEs), built on **Solana** and powered by **USDC**. It helps businesses simplify invoicing, automate payroll, and manage USDC-native finances—while offering the ability to earn yield and interact with fiat currency.
 
-**URL**: https://lovable.dev/projects/11a724ee-2c4e-4199-af22-4308662f08da
+Sollynx brings together tools traditionally scattered across banks, payroll platforms, crypto wallets, and spreadsheets into one futuristic platform.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🌍 The Problem
 
-**Use Lovable**
+Modern SMEs face real financial bottlenecks:
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/11a724ee-2c4e-4199-af22-4308662f08da) and start prompting.
+| Problem | Impact on SMEs |
+|--------|----------------|
+| ❌ Manual invoicing | Wastes time, error-prone, hard to track |
+| ❌ Fragmented payroll | Time-consuming, no automation, costly |
+| ❌ Idle capital | USDC just sits—no growth or integration with fiat |
+| ❌ Lack of insight | No centralized dashboard or smart reporting |
+| ❌ Multiple tools | Switching between apps slows teams down |
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## ✅ Sollynx Solution
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+| Feature Area | Key Benefits |
+|--------------|--------------|
+| 🔗 Invoicing | Create on-chain invoices with auto-generated pay links |
+| 💸 Payroll | Automate salary and vendor payments with one click |
+| 📊 Dashboard | Real-time financial analytics (USDC, profit, trends) |
+| 🔐 Vault | Deposit, withdraw, convert, and invest your USDC |
+| 💰 Growth Pool | Put idle USDC to work via high-yield pools |
+| 🔄 Fiat Layer | Seamless USDC ↔ local currency exchange |
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 🧭 App Pages & What They Solve
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### 📊 Dashboard – *Your Business Command Center*
+> **Problem Solved**: SMEs rarely have a live view of finances
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+- View **total USDC balance**
+- Track **analytics** across months
+- Summary boxes: **Profit**, **Revenue**, **Credit**
 
-# Step 3: Install the necessary dependencies.
-npm i
+> 💡 Add: filters for weekly/monthly, real-time alerts
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+---
+
+### 💳 Payment – *Smart Invoicing Made Easy*
+> **Problem Solved**: Manual invoicing takes too long
+
+- Generate invoices with **auto pay link**
+- See total invoice count and value
+- View payment status per invoice
+
+> 💡 Add: recurring billing, customer notifications
+
+---
+
+### 🤝 Distribution – *Automated Payroll to Staff & Suppliers*
+> **Problem Solved**: Inefficient, fragmented payroll
+
+- Assign employees & suppliers
+- Schedule and send **pay slips / credit slips**
+- Customize each payout
+
+> 💡 Add: token split (e.g. 70% USDC, 30% other), batch pay
+
+---
+
+### 🏦 Vault – *All-in-One Fund & Investment Hub*
+> **Problem Solved**: SMEs lack unified crypto-fiat management
+
+- **Reload balance** (buy USDC)
+- **Convert to fiat** (sell USDC)
+- View **profit metrics**
+- **Deposit, Withdraw, Invest** with yield options
+
+> 💡 Add: vault allocation, APY performance, investment history
+
+---
+
+## 🔐 Architecture & Tools
+
+| Tech Stack | Description |
+|------------|-------------|
+| Solana     | Ultra-fast blockchain backend |
+| USDC       | Reliable stablecoin for finance |
+| React + Tailwind CSS | UI / frontend framework |
+| Anchor     | On-chain smart contract framework |
+| Firebase / Supabase | Authentication and analytics |
+| Chart.js / Recharts | Data visualization |
+| Discord SDK | Wallet & identity integrations |
+
+---
+
+## 📸 UI Preview
+
+> *(Embed your screenshots here with captions)*  
+Example:  
+![Dashboard](./screenshots/dashboard.png)  
+*A modern dashboard with real-time analytics and USDC portfolio summary.*
+
+---
+
+## 🧠 Future Features
+
+- Gamified XP system for spending/rewarding loyalty
+- NFT business cards and verified merchant badges
+- Multi-token distribution engine
+- Local bank payout API integrations
+- LNX governance & reward token
+
+---
+
+## 🛠 Getting Started
+
+```bash
+# Clone the repo
+git clone https://github.com/yourusername/sollynx.git
+
+# Install dependencies
+npm install
+
+# Start development server
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/11a724ee-2c4e-4199-af22-4308662f08da) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
