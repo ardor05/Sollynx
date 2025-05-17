@@ -1,5 +1,7 @@
 
-<img src="https://github.com/user-attachments/assets/ba0e246c-b97f-4b34-8c35-9cdc041a3792" alt="Sollynx" width="300"/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ba0e246c-b97f-4b34-8c35-9cdc041a3792" alt="Sollynx" width="300"/>
+</p>
 
 # 🚀 Sollynx — The Future of SME Finance, Powered by Stablecoins
 
