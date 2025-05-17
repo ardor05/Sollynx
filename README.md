@@ -90,7 +90,6 @@ Modern SMEs face real financial bottlenecks:
 | Anchor     | On-chain smart contract framework |
 | Firebase / Supabase | Authentication and analytics |
 | Chart.js / Recharts | Data visualization |
-| Discord SDK | Wallet & identity integrations |
 
 ---
 
